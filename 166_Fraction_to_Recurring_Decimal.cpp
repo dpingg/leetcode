@@ -1,3 +1,5 @@
+//transform integer to string using stringstream
+//using hash map for calculating circulating decimal
 class Solution {
 public:
     string fractionToDecimal(int numerator, int denominator) {
